@@ -1,22 +1,21 @@
 # Road-Buddy
 
-=== OVERVIEW ===
 
-=== Overall Concept === 
+## Overall Concept 
 
 ‘10-44’ is the winning application of General Assembly’s first West Coast Hackathon. The hackathon theme was to create an application that would help delivery drivers during the holidays. ‘10-44’ matches users based on shared interests to help address the loneliness long-haul truckers face during busy working seasons. This app was created by an eight-person cross-functional team consisting of four software engineers and four UX/UI designers in less than 3 days. 
 
 ‘10-44’ is a full-stack Express/Node/Mongoose application that uses EJS templating to render dynamic web pages. It features a robust, session-based user auth system, an efficient matching algorithm that pairs users based on shared interests, and a working two way messaging system so users can communicate directly on the app. The app demonstrates full CRUD functionality, RESTful routing, a mobile-centered design, and a clean, modern user interface. 
 
 
-=== Link to live site ===
+## Link to live site
 
 You can access ‘10-44’ and begin connecting with other truckers here:
 
 https://roadbuddy1044.herokuapp.com/
 
 
-=== Developer Installation ===
+## Developer Installation 
 
 To install this application on your local machine, fork and clone down the repo. 
 
@@ -25,7 +24,7 @@ You will need node.js to run this application on your local machine. Run "npm in
 Once all dependencies are downloaded, you can spin up the application with "node server.js". 
 
 
-=== Engineering Team ===
+## Engineering Team
 
 Brian Pham | https://www.linkedin.com/in/brianpham-se/
 
@@ -39,7 +38,7 @@ John D. Watt | https://www.linkedin.com/in/john-d-watt/
 
 
 
-=== UX/UI Team ===
+## UX/UI Team 
 
 Jessica Ritter | https://www.linkedin.com/in/jessicalritter/ 
 
@@ -53,7 +52,7 @@ Karen Gamber | https://www.linkedin.com/in/karengamber/
 
 
 
-=== Main Technologies ===
+## Main Technologies 
 
 - JS
 - Node
@@ -64,7 +63,7 @@ Karen Gamber | https://www.linkedin.com/in/karengamber/
 - jQuery
 
 
-=== Pictures of Site ===
+## Pictures of Site 
 
 ![mvp-login](./readme-images/login.png)
 
@@ -85,24 +84,24 @@ Karen Gamber | https://www.linkedin.com/in/karengamber/
 ![mvp-matches](./readme-images/matches2.png)
 
 
-=== UX/UI DESIGN MATERIALS ===
+# UX/UI DESIGN MATERIALS 
 
-=== User Research ===
+## User Research 
 
 ![mvp-wireframe](./readme-images/user-research.png)
 
 
-=== MOODBOARD ===
+## Moodboard 
 
 ![mvp-wireframe](./readme-images/moodboard-uxui.png)
 
 
-=== USER FLOW DIAGRAM ===
+## USER FLOW DIAGRAM
 
 ![mvp-wireframe](./readme-images/user-flow-uxui.png)
 
 
-=== WireFrames ===
+## WireFrames
 ![mvp-wireframe](./readme-images/lowfi-wf.png)
 
 ![mvp-wireframe](./readme-images/login-signup-wf.png)
