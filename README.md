@@ -61,6 +61,7 @@ Karen Gamber | https://www.linkedin.com/in/karengamber/
 - MongoDB 
 - EJS 
 - jQuery
+- Bootstrap
 
 
 ## Pictures of Site 
