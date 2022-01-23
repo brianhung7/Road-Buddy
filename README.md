@@ -19,9 +19,9 @@ https://roadbuddy1044.herokuapp.com/
 
 To install this application on your local machine, fork and clone down the repo. 
 
-You will need node.js to run this application on your local machine. Run "npm install" to download all dependencies for the application.
+You will need node.js to run this application on your local machine. Run ```npm install``` to download all dependencies for the application.
 
-Once all dependencies are downloaded, you can spin up the application with "npm start". 
+Once all dependencies are downloaded, you can spin up the application with ```npm start```. 
 
 
 ## Engineering Team
